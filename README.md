@@ -14,10 +14,10 @@ I am graduated from [Makers](https://makers.tech/), in January 2022
 | ---------------------------- | ----------------- | ----------------- |
 | [**Recipr**](https://github.com/bdowsett/Recipr) | Final project completed at Makers Academy as part of a team.  | ReactJS, ExpressJS, Jest, MongoDb|
 
-| [**Acebook**](https://github.com/RPGrimes/Acebook) | Team engineering challenge where the goal was to build an social media close, taking inspiration from Facebook | Ruby-on-Rails, RSpec, Capybara, BCrypt, PostgreSQL, Bootstrap CSS, HTML, git |
-| [**News Summary Challenge**](https://github.com/RPGrimes/news-summary-challenge) | An individual weekend challenge where the task was to generate a news page utilising an API. | JavaScript, Jest, APIs, CSS, HTML, git |
-| [**Bank Tech Test**](https://https://github.com/RPGrimes/bankTechTest) | An individual tech test undertaken during Week 10 of the Makers Academy course to showcase clean code that logs deposits and withdrawals from a bank account and can show a statement detailing an account transaction history | JavaScript, Node JS, Jest, git  |
-| [**Thermostat**](https://github.com/RPGrimes/Thermostat) | Pair-programming challenge where the task was to build a thermometer that can be set/changed via the command line. It also utilises a weather API to call the temperature from an entered city | JavaScript, Jest, APIs, HTML, git  |
+| [**Acebook**]() | Team engineering challenge where the goal was to build an social media close, taking inspiration from Facebook | Ruby-on-Rails, RSpec, Capybara, BCrypt, PostgreSQL, Bootstrap CSS, HTML, git |
+| [**News Summary Challenge**]() | An individual weekend challenge where the task was to generate a news page utilising an API. | JavaScript, Jest, APIs, CSS, HTML, git |
+| [**Bank Tech Test**]() | An individual tech test undertaken during Week 10 of the Makers Academy course to showcase clean code that logs deposits and withdrawals from a bank account and can show a statement detailing an account transaction history | JavaScript, Node JS, Jest, git  |
+| [**Thermostat**]() | Pair-programming challenge where the task was to build a thermometer that can be set/changed via the command line. It also utilises a weather API to call the temperature from an entered city | JavaScript, Jest, APIs, HTML, git  |
 
 ### <a name="Skills">Skills</a>
 
