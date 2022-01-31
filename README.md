@@ -17,7 +17,7 @@ Aspiring Software developer recently graduated from [Makers](https://makers.tech
 | [**Acebook**]() | Team engineering challenge where the goal was to build an social media close, taking inspiration from Facebook | Ruby-on-Rails, RSpec, Capybara, BCrypt, PostgreSQL, Bootstrap CSS, HTML, git |
 | [**News Summary Challenge**]() | An individual weekend challenge where the task was to generate a news page utilising an API. | JavaScript, Jest, APIs, CSS, HTML, git |
 | [**Bank Tech Test**]() | An individual tech test undertaken during Week 10 of the Makers Academy course to showcase clean code that logs deposits and withdrawals from a bank account and can show a statement detailing an account transaction history | JavaScript, Node JS, Jest, git  |
-| [**Thermostat**]() | Pair-programming challenge where the task was to build a thermometer that can be set/changed via the command line. It also utilises a weather API to call the temperature from an entered city | JavaScript, Jest, APIs, HTML, git  |
+| [**Thermostat**]() | Pair-programming challenge where the task was to build a thermometer that can be set/changed via the command line. | JavaScript, Jest, APIs, HTML, git  |
 
 ### <a name="Skills">Skills</a>
 
@@ -31,7 +31,7 @@ Aspiring Software developer recently graduated from [Makers](https://makers.tech
 
 ### <a name="WorkExperience">Work Experience</a>
 
-####Keyloop                                                                                                                                     Nov 2016 – Jul 2021
+####Keyloop, Nov 2016 – Jul 2021
 **Project Manager**
 ●	Spearheaded project to source and implement a new Computer Telephony Integration system, led RFP process to implementation across 20+ countries and 400+ associates. Resulting in a 30% reduction in call logging times and £200k pa productivity saving<br>
 ●	Led on project to implement Xactly Incent Commision tool internationally. Reduced time administering sales commissions plans by 60%. Boosted forecasting ease and precision. Sales commission calculation errors reduced from industry average of 5%-10% of commission budget to 0% giving savings of £40k pa. Efficiency savings in planning and producing Sales Incentive Plans of £40k pa. Reduction in overhead of sales having to manually produce sales commission reports of £60k pa. <br>
@@ -44,7 +44,7 @@ Aspiring Software developer recently graduated from [Makers](https://makers.tech
 ●	Managed a 10 member cross-functional (HR, Finance, IT) team and coordinated with external suppliers (KPMG) on the successful launch of the Global Payroll Manager product, a cross-border payroll and global shadow payroll solution for mobile expatriate associates. Reducing required man-hours to process payroll files by 30%.<br>
 
 
-####Waitrose####                                                                                                                                    Jun 2009 – Apr 2016
+####Waitrose, Jun 2009 – Apr 2016
 **Project Manager**	
 ●	Developed and rolled out a new eCommerce picking system for in-branch picked, online grocery orders across 200+ Waitrose Branches. Continued work on development of this system enabling market leading pick rates, and annual savings of £1.8m pa.<br>
 ●	Project Managed systems development within the Waitrose Commercial function, improved efficiency and expediency of Supplier Invoicing. Moved away from a time consuming manual invoicing approach to an automated process resulting in productivity, recovery costs and cash flow improvements of £1m pa.<br>
@@ -72,11 +72,6 @@ Aspiring Software developer recently graduated from [Makers](https://makers.tech
 ##### Other Education
 - Learn JavaScript, 30 hours - [Codecadamy - JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
 - Learn Ruby, 10 hours - [Codecadamy - Ruby](https://www.codecademy.com/learn/learn-ruby)
-
-
-### <a name="PersonalInterests">Personal Interests</a>
-
-
 
 ### <a name="Contact">Contact Details</a>
 
