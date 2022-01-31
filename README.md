@@ -32,7 +32,7 @@ Aspiring Software developer recently graduated from [Makers](https://makers.tech
 ### <a name="WorkExperience">Work Experience</a>
 
 #### Keyloop, Nov 2016 – Jul 2021
-_**Project Manager**
+_**Project Manager**_
 ●	Spearheaded project to source and implement a new Computer Telephony Integration system, led RFP process to implementation across 20+ countries and 400+ associates. Resulting in a 30% reduction in call logging times and £200k pa productivity saving<br>
 ●	Led on project to implement Xactly Incent Commision tool internationally. Reduced time administering sales commissions plans by 60%. Boosted forecasting ease and precision. Sales commission calculation errors reduced from industry average of 5%-10% of commission budget to 0% giving savings of £40k pa. Efficiency savings in planning and producing Sales Incentive Plans of £40k pa. Reduction in overhead of sales having to manually produce sales commission reports of £60k pa. <br>
 ●	Steered project team of 10 (Product, Finance, IT) to design and build an automated billing process for Keyloop’s SMS  product to mitigate lost revenue of £500k and negate manual intervention.<br>
@@ -45,7 +45,7 @@ _**Project Manager**
 
 
 #### Waitrose, Jun 2009 – Apr 2016
-_**Project Manager**	
+_**Project Manager**_	
 ●	Developed and rolled out a new eCommerce picking system for in-branch picked, online grocery orders across 200+ Waitrose Branches. Continued work on development of this system enabling market leading pick rates, and annual savings of £1.8m pa.<br>
 ●	Project Managed systems development within the Waitrose Commercial function, improved efficiency and expediency of Supplier Invoicing. Moved away from a time consuming manual invoicing approach to an automated process resulting in productivity, recovery costs and cash flow improvements of £1m pa.<br>
 ●	Project managed the delivery of system improvements to the Product Information Catalogue to the benefit of Customer Promotions, enhanced customer proposition, competitive edge and delivered significant financial benefits of £1m pa.<br>
