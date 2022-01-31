@@ -6,7 +6,7 @@
 
 ### <a name="AboutMe">About Me</a>
 
-I am graduated from [Makers](https://makers.tech/), in January 2022
+Aspiring Software developer recently graduated from [Makers](https://makers.tech/) bootcamp, in January 2022
 
 ### <a name="FeaturedProjects">Featured Projects</a>
 
@@ -31,9 +31,31 @@ I am graduated from [Makers](https://makers.tech/), in January 2022
 
 ### <a name="WorkExperience">Work Experience</a>
 
-#### Keyloop
-##### 
-##### 
+Keyloop                                                                                                                                     Nov 2016 – Jul 2021
+Project Manager
+●	Spearheaded project to source and implement a new Computer Telephony Integration system, led RFP process to implementation across 20+ countries and 400+ associates. Resulting in a 30% reduction in call logging times and £200k pa productivity saving.
+●	Led on project to implement Xactly Incent Commision tool internationally. Reduced time administering sales commissions plans by 60%. Boosted forecasting ease and precision. Sales commission calculation errors reduced from industry average of 5%-10% of commission budget to 0% giving savings of £40k pa. Efficiency savings in planning and producing Sales Incentive Plans of £40k pa. Reduction in overhead of sales having to manually produce sales commission reports of £60k pa.  
+●	Steered project team of 10 (Product, Finance, IT) to design and build an automated billing process for Keyloop’s SMS  product to mitigate lost revenue of £500k and negate manual intervention.
+●	Initiated a project to close out Keyloop’s Brussels office from logistics to liquidation. Coordinating international teams across Facilities, Finance, Tax, Legal, IT and HR to build and manage a plan to decommission the office and relocate the 30 associates to alternate Keyloop offices.
+●	Ran a project to consolidate 21 business bank accounts to 1. Managed an internal (Treasury Finance)  and external (BNP Paribas) team to achieve £70k pa saving in transaction and service fees.
+●	Established a programme plan of major system upgrades for 1,300 customers managing international implementation teams in EMEA, APAC, LATAM from piloting of the solution through to deployment.
+●	Coordinated project team (IT, Financial Control) to implement Jet Reports to the ERP (Microsoft Dynamics Nav) reducing time taken by the Finance team to generate reports by 60%.
+●	Developed a suite of PMO project document templates, achieving a reduction in preparation time. Conducted training and peer-mentoring programs across 20 associates to embed.
+●	Managed a 10 member cross-functional (HR, Finance, IT) team and coordinated with external suppliers (KPMG) on the successful launch of the Global Payroll Manager product, a cross-border payroll and global shadow payroll solution for mobile expatriate associates. Reducing required man-hours to process payroll files by 30%.
+
+
+Waitrose                                                                                                                                    Jun 2009 – Apr 2016
+Project Manager	
+●	Developed and rolled out a new eCommerce picking system for in-branch picked, online grocery orders across 200+ Waitrose Branches. Continued work on development of this system enabling market leading pick rates, and annual savings of £1.8m pa.
+●	Project Managed systems development within the Waitrose Commercial function, improved efficiency and expediency of Supplier Invoicing. Moved away from a time consuming manual invoicing approach to an automated process resulting in productivity, recovery costs and cash flow improvements of £1m pa.
+●	Project managed the delivery of system improvements to the Product Information Catalogue to the benefit of Customer Promotions, enhanced customer proposition, competitive edge and delivered significant financial benefits of £1m pa.
+●	Defined design requirements and led implementation of a new customer collection point in over 200 branches, expedited the customer flow and reduced congestion and wait times for branch order collections.
+●	Managed project to install a Telematics solution to the Waitrose Fleet of Grocery delivery vans enabling the performance management and development of 400+ drivers. Delivered Fuel efficiency and reduced driver incidents.
+●	Led Project to improve functionality of in house application for Export team to liaise with offshore suppliers regarding price changes.
+●	Influenced Branches to increase operational efficiencies within eCommerce teams. Analysed growth opportunities for 30+ branches in some cases increasing order volume capacity by 40% through expansion of delivery areas.
+●	Implemented a new Mnetics Product Locator system into 200 plus Click and Collect branches. Introducing an automated solution for scanning in/out and location of orders at point of collection from Branch. Increased parcel capacity by 40%.
+●	Defined the Business Operating procedures and training approach for a Foreign Currency collection from more than 200 branches, ensured that security implications were understood, mitigated and all staff were trained.
+
 
 
 
