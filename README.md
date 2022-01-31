@@ -1,7 +1,7 @@
 <div align="center">
   <h1> Ben Dowsett </h1>
 
-[About Me](#AboutMe) | [Featured Projects](#FeaturedProjects) | [Skills](#Skills) | [Work Experience](#WorkExperience) | [Education](#Education) | [Personal Interests](#PersonalInterests) | [Contact](#Contact)
+[About Me](#AboutMe) | [Featured Projects](#FeaturedProjects) | [Skills](#Skills) | [Work Experience](#WorkExperience) | [Education](#Education)  | [Contact](#Contact)
 </div>
 
 ### <a name="AboutMe">About Me</a>
