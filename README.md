@@ -21,6 +21,23 @@ I am motivated by idea that Software Development is a life long journey of learn
 | [**Bank Tech Test**]() | An individual tech test undertaken during Week 10 of the Makers Academy course to showcase clean code that logs deposits and withdrawals from a bank account and can show a statement detailing an account transaction history | JavaScript, Node JS, Jest, git  |
 | [**Thermostat**]() | Pair-programming challenge where the task was to build a thermometer that can be set/changed via the command line. | JavaScript, Jest, APIs, HTML, git  |
 
+## Skills
+
+#### Excellent communicator
+
+
+
+#### Thrives under pressure
+
+
+
+#### Fast learner
+
+
+#### Analytical thinker
+
+
+
 ### Tech
 
 <p align="center">
