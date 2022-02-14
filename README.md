@@ -6,7 +6,10 @@
 
 ### <a name="AboutMe">About Me</a>
 
-Aspiring Software developer recently graduated from [Makers](https://makers.tech/) bootcamp, in January 2022
+Aspiring Software developer recently graduated from [Makers](https://makers.tech/) bootcamp, in January 2022, looking for a role where I can apply my programming knowledge and continue to learn new technologies and skills.
+
+Before Makers I was working as a Project Manager for 10+ years. I worked on Projects that spanned all business functions more often than not with an IT workstream. It was working alongside devs that inspired me to start coding. Through Makers I got hooked on building software as part of team and seeing the result, which is something I lacked as a Project Manager where I was responsible for overseeing delivery rather than contributing to the actual solution.
+I am motivated by idea that Software Development is a life long journey of learning where technologies are constantly evolving.
 
 ### <a name="FeaturedProjects">Featured Projects</a>
 
